@@ -61,7 +61,7 @@ I'm a Software Engineering student passionate about web development. I enjoy wor
 
 ## Social Media
 
-<a href="www.linkedin.com/in/fabrizio-sanchez-zamora" >
+<a href="https://www.linkedin.com/in/fabrizio-sanchez-zamora/" >
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 <a/>
 
